@@ -1,0 +1,14 @@
+td {
+    padding: 0 10px;
+    text-align: right;
+}
+
+#elem {
+    width: 300px;
+    border: solid 1px black;
+}
+
+.kursval {
+    text-align: center;
+    padding-bottom: 20px;
+}
